@@ -13,7 +13,10 @@ class Parser implements ParserInterface
         return [
             'just',
             'do',
-            'it'
+            'it',
+            'Yes!',
+            'Parser',
+            'Ready'
         ];
     }
 
