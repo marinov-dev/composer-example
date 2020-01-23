@@ -1,5 +1,7 @@
 <?php
 
+namespace marinov\parser;
+
 /**
  * @author Victor Zinchenko <zinchenko.us@gmail.com>
  */
